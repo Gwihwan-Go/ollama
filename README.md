@@ -1,21 +1,4 @@
-<div align="center">
-  <img alt="ollama" height="200px" src="https://github.com/jmorganca/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7">
-</div>
-
 # Ollama
-
-[![Discord](https://dcbadge.vercel.app/api/server/ollama?style=flat&compact=true)](https://discord.gg/ollama)
-
-Get up and running with large language models locally.
-
-### macOS
-
-[Download](https://ollama.ai/download/Ollama-darwin.zip)
-
-### Windows
-
-Coming soon! For now, you can install Ollama on Windows via WSL2.
-
 ### Linux & WSL2
 
 ```
